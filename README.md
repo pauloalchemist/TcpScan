@@ -1,4 +1,4 @@
-<div style="align-text: center;">
+<div style="text-align: center;">
   <h1>TcpScan</h1>
 </div>  
 
